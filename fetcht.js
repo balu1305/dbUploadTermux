@@ -101,7 +101,7 @@ async function fetchData(date, serviceId, serviceName) {
 }
 
 // Function to read CSV file synchronously and return an array of objects
-function readCSVSync(filePath) {
+function readCSVSync(filePath) {	
   const csvData = fs.readFileSync(filePath, { encoding: "utf-8" });
   const lines = csvData.trim().split("\n");
   const headers = lines.shift().split(",");

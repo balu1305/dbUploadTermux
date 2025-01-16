@@ -1,0 +1,254 @@
+service_id,service_name,busType,first_bpName,first_bp_time,last_bpName,last_bp_time,busNumber
+79,Madurai-Chennai | 09:30PM,2+1(36)AC: Sleeper: Luxury,Mattuthavani - IntrCity Lounge,21:30,SRM College,23:59,TN63BP8555
+91,Madurai-Bangalore | 10:00PM,2+1(36)AC: Sleeper: Luxury,Karur Bypass,01:00,Majestic - Boarding Zone,08:10,NL01B2711
+92,Bangalore-Madurai | 10:15PM,2+1(36)AC: Sleeper: Luxury,Krishnagiri,00:50,Mattuthavani Bus Stand,07:25,NL01B2709
+101,Chennai-Madurai | 10:55PM,2+1(36)AC: Sleeper: Luxury,Trichy Bypass,04:00,Mattuthavani - IntrCity Lounge,06:30,TN63BP8777
+109,Madurai-Chennai | 10:00PM,2+1(30)AC: Sleeper: Luxury,Mattuthavani - IntrCity Lounge,22:00,Koyembedu,06:30,TN02BU1066Z
+110,Chennai-Madurai | 11:00PM,2+1(30)AC: Sleeper: Luxury,Chengalpattu  - Boarding Zone,00:35,Mattuthavani - IntrCity Lounge,07:30,TN02BU1030Z
+155,Hyderabad-Tirupati | 08:20PM,2+1(34)AC: Sleeper with Washroom: Luxury,Miyapur - Boarding Zone (Van Pickup),17:50,Tirupati,07:20,TS12UE0402
+156,Tirupati-Hyderabad | 08:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,BMR Harini Parking,20:00,Mehdipatnam,08:00,TS12UE0382
+165,Vijayawada-Bangalore | 06:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Tirupati Bypass,02:00,Majestic - Boarding Zone,07:55,NL02B6336
+166,Bangalore-Vijayawada | 10:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Palamaner Bypass,00:35,Benz Circle,10:00,NL02B6569
+167,Hyderabad-Mumbai | 06:55PM,2+1(36)AC: Sleeper with Washroom: Luxury,Hadapsar,05:00,Borivali East,10:40,NL01B2749
+168,Mumbai-Hyderabad | 07:50PM,2+1(36)AC: Sleeper with Washroom: Luxury,Solapur Bypass,00:55,Lakdikapool - IntrCity Lounge,08:20,NL01B2748
+180,Chennai-Bangalore | 11:20PM,2+1(36)AC: Sleeper: Luxury,Vellore - Boarding Zone,02:20,Hebbal,07:55,NL01B1732
+181,Bangalore-Chennai | 09:30PM,2+1(36)AC: Sleeper: Luxury,Hebbal,19:50,Velachery,06:15,NL01B1736
+184,Hyderabad-Chennai | 11:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Gachibowli (Van Pickup),20:15,Koyambedu,11:25,TS12UD9636
+185,Chennai-Hyderabad | 09:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Sullurpeta,00:15,Miyapur (Van Dropoff),11:00,TS12UD9638
+199,Hyderabad-Guntur | 11:40PM,2+1(34)AC: Sleeper: Luxury,Chandanagar,22:00,Pattabhipuram - IntrCity Lounge,06:55,AP39TF1399Y
+200,Guntur-Hyderabad | 10:25PM,2+1(34)AC: Sleeper: Luxury,Pattabhipuram - IntrCity Lounge,22:25,Chandanagar,06:50,AP39TF2999Y
+201,Bangalore-Coimbatore | 10:30PM,2+1(34)AC: Sleeper with Washroom: Luxury,Krishnagiri,00:40,Gandhipuram,05:50,KA51AK1037
+202,Coimbatore-Bangalore | 10:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,Bhavani,00:30,Majestic - Boarding Zone,06:20,KA51AK1038
+217,Chennai-Bangalore | 09:15PM,2+1(32)AC: Sleeper: Luxury,Vellore - Boarding Zone,01:10,Majestic - Boarding Zone,05:20,AR01N7033
+218,Bangalore-Chennai | 10:15PM,2+1(32)AC: Sleeper: Luxury,TCR Circle,00:55,Siruseri,06:20,AR01N7034
+225,Bangalore-Hyderabad | 09:10PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Anantapur,01:00,Mehdipatnam,07:55,TS12UD9637
+226,Hyderabad-Bangalore | 08:10PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Ameerpet (Van Pickup),17:40,Whitefield,08:10,TS12UD9636
+227,Hyderabad-Guntur | 11:30PM,2+1(42)AC: Sleeper: Scania Multi Axle,Kondapur,23:00,Pattabhipuram - IntrCity Lounge,07:35,NL01B3032
+228,Hyderabad-Visakhapatnam | 07:15PM,2+1(38)AC: Sleeper: Luxury,Gachibowli (Van Pickup),15:50,MVP Circle,08:05,NL01B3270
+229,Visakhapatnam-Hyderabad | 06:15PM,2+1(38)AC: Sleeper: Luxury,Benz Circle,02:35,Allwyn X Road (Van Dropoff),08:15,NL01B3269
+230,Guntur-Hyderabad | 10:15PM,2+1(42)AC: Sleeper: Scania Multi Axle,Pattabhipuram - IntrCity Lounge,22:15,Gachibowli,06:25,NL01B3029
+231,Hyderabad-Bangalore | 08:50PM,2+1(34)AC: Sleeper with Washroom: Luxury,Bellary Chowrasta,01:25,Whitefield,09:00,AP39UX7896
+232,Bangalore-Hyderabad | 10:40PM,2+1(34)AC: Sleeper with Washroom: Luxury,Chikkaballapur Bypass,00:01,Gachibowli (Van Dropoff),10:40,AP39UX7897
+240,Vijayawada-Bangalore | 06:35PM,2+1(42)AC: Sleeper: Volvo Multi Axle I-Shift B11R,Benz Circle - Boarding Zone,18:35,Majestic - Boarding Zone,06:50,NL01B2121
+244,Bangalore-Vijayawada | 10:25PM,2+1(42)AC: Sleeper: Volvo Multi Axle I-Shift B11R,Tirupati Bypass,02:35,Benz Circle,09:50,NL01B2119
+246,Chennai-Coimbatore | 09:25PM,2+1(30)AC: Sleeper with Washroom: BharatBenz Full Air Suspension,Ambur,00:50,Gandhipuram,06:45,TN66AS3918
+247,Coimbatore-Chennai | 09:45PM,2+1(30)AC: Sleeper with Washroom: BharatBenz Full Air Suspension,Lakshmi Nagar Bypass - Boarding Zone,00:20,Koyambedu,07:35,TN66AS3913
+250,Madurai-Chennai | 10:30AM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Mattuthavani - Boarding Zone,10:30,Koyembedu,19:35,TN02CA0986
+251,Chennai-Madurai | 10:30AM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Koyambedu,10:15,Mattuthavani - IntrCity Lounge,19:00,TN02CA0904
+258,Hyderabad-Chennai | 09:40PM,2+1(34)AC: Sleeper with Washroom: Luxury,Gachibowli (Van Pickup),18:10,Koyambedu,09:55,TN02CA2418
+259,Chennai-Hyderabad | 08:45PM,2+1(34)AC: Sleeper with Washroom: Luxury,Guduru Bypass,00:20,Miyapur (Van Dropoff),10:30,TN02CA2833
+262,Hyderabad-Pune | 09:00PM,2+1(34)AC: Sleeper with Washroom: Volvo Eicher,Solapur Bypass,02:40,Nigdi,09:10,TS14DD1387Z
+263,Pune-Hyderabad | 09:00PM,2+1(34)AC: Sleeper with Washroom: Volvo Eicher,Market Yerd Chowk,02:55,Lakdikapool - IntrCity Lounge (Van Dropoff),10:30,TS14DD1388Z
+266,Chennai-Vijayawada | 10:30PM,2+1(36)AC: Sleeper: Luxury,Tada,00:20,Benz Circle,07:00,TN02CA2656
+267,Vijayawada-Chennai | 09:30PM,2+1(36)AC: Sleeper: Luxury,Benz Circle - Boarding Zone,21:30,Siruseri,07:40,TN02CA2697
+270,Chennai-Madurai | 10:47PM,2+1(40)AC: Seater: Sleeper: Luxury,Trichy Central Bus Stand,05:15,Mattuthavani - IntrCity Lounge,07:00,NL01B1246
+271,Madurai-Chennai | 09:15PM,2+1(40)AC: Seater: Sleeper: Luxury,Mattuthavani - IntrCity Lounge,21:15,Velachery,06:35,NL01B1255
+273,Chennai-Nagercoil | 07:05PM,2+1(46)AC: Seater: Sleeper with Washroom: ,Trichy Bypass,01:00,Vadasery - Boarding Zone,07:30,TN05CQ8107
+274,Bangalore-Chennai | 10:20PM,2+1(36)AC: Sleeper: Luxury,TCR Circle,01:00,Siruseri,07:30,TN66AS3443
+275,Chennai-Bangalore | 11:30PM,2+1(36)AC: Sleeper: Luxury,Vellore - Boarding Zone,02:15,Whitefield,07:15,TN66AS3421
+280,Chennai-Coimbatore | 10:30PM,2+1(48)AC: Volvo Eicher Seater:Sleeper: ,Vellore - Boarding Zone,01:15,Gandhipuram,08:15,TN66AP8836
+281,Coimbatore-Chennai | 08:50PM,2+1(48)AC: Volvo Eicher Seater:Sleeper: ,AVR Circle,00:45,Koyambedu,07:15,TN66AP8834
+284,Chennai-Madurai | 10:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Melmaruvathur,00:15,Mattuthavani - IntrCity Lounge,06:15,TN02CA9797
+285,Madurai-Chennai | 11:15PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Kottampatti,00:05,Koyembedu,06:55,TN02CA7575
+288,Nagercoil-Bangalore | 08:30PM,2+1(42)AC: Sleeper: Volvo Multi Axle I-Shift B11R,Tirumangalam Toll Gate,00:25,Majestic - Boarding Zone,08:55,NL01B2120Z
+289,Bangalore-Nagercoil | 10:05PM,2+1(42)AC: Sleeper: Volvo Multi Axle I-Shift B11R,Krishnagiri,00:30,Vadasery - Boarding Zone,09:35,NL01B2119Z
+296,Nagercoil-Chennai | 06:30PM,2+1(46)AC: Seater: Sleeper with Washroom: ,Vadasery - Boarding Zone,18:30,Karuppayurani Junction,23:20,TN05CQ8107
+297,Hyderabad-Visakhapatnam | 10:30PM,2+1(34)AC: Sleeper with Washroom: Luxury,Gachibowli (Van Pickup),19:40,MVP Circle,11:25,TS12UE3606
+298,Visakhapatnam-Hyderabad | 08:15PM,2+1(34)AC: Sleeper with Washroom: Luxury,Annavaram Bypass,00:35,Gachibowli (Van Dropoff),11:30,TS12UE3606
+314,Belgaum(Belagavi)-Bangalore | 09:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Goaves,20:15,Madiwala - IntrCity Lounge,07:40,NL01B3064
+315,Bangalore-Belgaum(Belagavi) | 09:10PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Madiwala - IntrCity Lounge,20:00,Goaves,07:40,NL01B3063
+326,Mumbai-Goa | 05:15PM,2+1(30)AC: Sleeper with Washroom: Luxury,Satara,00:40,Banda,08:20,MH47Y6767-Z
+327,Goa-Mumbai | 07:30PM,2+1(30)AC: Sleeper with Washroom: Luxury,Madgaon,18:00,Kankavli,22:05,MH47Y6868-Z
+336,Indore-Mumbai | 09:15PM,2+1(34)AC: Sleeper with Washroom: Volvo Eicher,Malegaon (Bypass),03:50,Borivali East,11:00,MP13ZM5467
+338,Mumbai-Indore | 08:55PM,2+1(34)AC: Sleeper with Washroom: Volvo Eicher,Dwarka Circle,01:30,Vijay Nagar - IntrCity Lounge,10:30,MP13ZM5436
+341,Chennai-Bangalore | 10:10PM,2+1(30)AC: Sleeper with Washroom: Luxury,Vellore - Boarding Zone,01:15,Majestic - Boarding Zone,06:20,AR01N6826Z
+342,Bangalore-Chennai | 11:45PM,2+1(30)AC: Sleeper with Washroom: Luxury,Hosur - Boarding Zone,01:05,Siruseri,08:35,AR01N6825Z
+347,Chennai-Coimbatore | 10:15PM,2+1(30)AC: Sleeper: Luxury,Villupuram Bypass,00:35,Karunya Nagar,08:00,TN48BT8222
+348,Coimbatore-Chennai | 08:30PM,2+1(30)AC: Sleeper: Luxury,Salem,01:05,Velachery,07:35,TN48BT8333
+354,Mumbai-Goa | 06:05PM,2+1(36)AC: Sleeper with Washroom: Luxury,Satara,01:45,Panjim,10:35,NL01B2751
+355,Goa-Mumbai | 09:00PM,2+1(36)AC: Sleeper with Washroom: Luxury,Panjim,20:30,Kankavli,23:50,NL01B2750
+368,Bangalore-Coimbatore | 10:00PM,2+1(36)AC: Sleeper: Luxury,Krishnagiri,00:10,Gandhipuram,05:20,TN66AS5970
+369,Coimbatore-Bangalore | 10:40PM,2+1(36)AC: Sleeper: Luxury,Vijayamangalam Toll Gate,00:10,Majestic - Boarding Zone,07:00,TN66AS5940
+375,Pune-Indore | 08:15PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Dwarka Circle,01:20,Vijay Nagar - IntrCity Lounge,10:20,AR01W8500
+376,Indore-Pune | 08:15PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Dhule Bypass,01:45,Wagheshwar Parking,10:30,AR01W7900
+381,Pune-Nagpur | 09:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,Ahmednagar Bypass,00:30,Ashirwad Theater,10:45,MH48CQ8400
+382,Nagpur-Pune | 07:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,Ashirwad Bus Parking,19:00,Panchavati Square,22:15,MH48CQ4800
+385,Bangalore-Chennai | 10:20AM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Majestic - Boarding Zone,09:20,Siruseri,20:15,TN02CA4519
+386,Chennai-Bangalore | 11:20AM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Siruseri,09:30,Majestic - Boarding Zone,20:00,TN02CA4579
+387,Chennai-Madurai | 11:30PM,2+1(30)AC: Sleeper: Luxury,Chengalpattu  - Boarding Zone,00:55,Mattuthavani - IntrCity Lounge,07:35,PY01CT6676
+388,Madurai-Chennai | 08:45PM,2+1(30)AC: Sleeper: Luxury,Mattuthavani - IntrCity Lounge,20:45,SRM College,23:10,PY01CT7686
+403,Madurai-Bangalore | 09:35PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Karur Bypass,01:00,Majestic - Boarding Zone,07:50,TN30CD9696
+404,Bangalore-Madurai | 10:05PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Krishnagiri,00:45,Mattuthavani Bus Stand,07:40,TN30CD9697
+407,Bangalore-Goa | 08:30PM,2+1(34)AC: Sleeper with Washroom: Luxury,Madiwala - IntrCity Lounge,18:15,Mapusa,11:15,NL01B3258
+408,Goa-Bangalore | 07:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,Mapusa,18:20,Madiwala,09:55,NL01B3256
+411,Bangalore-Chennai | 10:50PM,2+1(36)AC: Sleeper: Luxury,Hosur - Boarding Zone,00:05,Siruseri,08:10,NL01B3383
+412,Chennai-Bangalore | 11:55PM,2+1(36)AC: Sleeper: Luxury,Vellore - Boarding Zone,02:40,Majestic - Boarding Zone,07:30,NL01B3384
+414,Bangalore-Coimbatore | 10:20PM,2+1(36)AC: Sleeper: Luxury,Salem Bypass,02:55,Gandhipuram,07:05,TN66AS2499
+415,Coimbatore-Bangalore | 10:30PM,2+1(36)AC: Sleeper: Luxury,Omni Bus Stand - IntrCity Lounge,22:30,Whitefield,07:15,TN-66-AS-2433
+417,Pune-Goa | 08:00PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Kankavli,04:00,Madgaon,08:00,AR01W7300
+418,Goa-Pune | 07:45PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Kolhapur,01:35,Nigdi,07:00,AR01W7400
+425,Bangalore-Hyderabad | 08:35PM,2+1(30)AC: Sleeper with Washroom: Luxury,Anantapur,00:05,Mehdipatnam,07:15,KA51AF2483Z
+426,Hyderabad-Bangalore | 11:30PM,2+1(30)AC: Sleeper with Washroom: Luxury,Bellary Chowrasta,03:35,Majestic - Boarding Zone,11:30,NL01B1823Z
+427,Chennai-Madurai | 11:37PM,2+1(33)AC: Sleeper: Bharat Benz Full Air Suspension,Trichy Bypass,04:55,Mattuthavani - IntrCity Lounge,07:00,TN63BJ2020D
+428,Madurai-Chennai | 10:15PM,2+1(33)AC: Sleeper: Bharat Benz Full Air Suspension,Trichy Bypass,00:20,Velachery,06:55,TN63BJ8181D
+450,Chennai-Coimbatore | 09:45PM,2+1(48)AC: Volvo Eicher Seater:Sleeper: ,Tindivanam  Bypass,00:25,Gandhipuram,07:45,TN66AQ4854
+451,Coimbatore-Chennai | 09:30PM,2+1(48)AC: Volvo Eicher Seater:Sleeper: ,Bhavani,00:20,Koyambedu,07:15,TN66AQ4861
+461,Bangalore-Chennai | 10:30PM,2+1(30)AC: Sleeper with Washroom: Luxury,TCR Circle,01:15,Siruseri,07:15,AR01N5664
+462,Chennai-Bangalore | 11:00PM,2+1(30)AC: Sleeper with Washroom: Luxury,Vellore - Boarding Zone,02:00,Majestic - Boarding Zone,06:55,AR01N5667
+463,Chennai-Trichy | 11:51PM,2+1(30)AC: Sleeper: Luxury,Koyambedu - IntrCity Lounge,22:08,Central Bus Stand,05:45,TN09DH5263
+464,Trichy-Chennai | 10:30PM,2+1(30)AC: Sleeper: Luxury,Central Bus Stand,22:30,Koyambedu - IntrCity Lounge,06:00,TN09DH7427
+465,Hyderabad-Visakhapatnam | 09:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Allwyn X Road (Van Pickup),18:35,MVP Circle,11:00,TS12UD9638
+466,Visakhapatnam-Hyderabad | 05:20PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Benz Circle,01:35,Allwyn X Road (Van Dropoff),07:55,TS12UD9640
+472,Chennai-Pollachi | 08:40PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Ambur,00:35,Pollachi,07:45,TN02CA4579
+473,Pollachi-Chennai | 09:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,AVR Circle,01:50,Koyambedu,08:30,TN02CA4519
+479,Chennai-Trichy | 03:05PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Koyambedu - IntrCity Lounge,14:28,Central Bus Stand,21:20,TN02CA9797
+480,Trichy-Chennai | 02:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Central Bus Stand,14:30,Koyambedu,20:45,TN02CA7575
+490,Pune-Goa | 08:30PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Karad Bypass,00:15,Madgaon,08:25,AR01W7500
+491,Goa-Pune | 09:30PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Kolhapur,03:20,Nigdi,09:00,AR01W7700
+501,Hyderabad-Goa | 07:45PM,2+1(34)AC: Sleeper with Washroom: Luxury,Kolhapur Bypass,06:10,Panjim,12:15,TG12T2171
+502,Goa-Hyderabad | 05:30PM,2+1(34)AC: Sleeper with Washroom: Luxury,Panjim,17:00,Kolhapur,23:50,TG12T2172
+520,Mumbai-Indore | 10:30PM,2+1(34)AC: Sleeper with Washroom: Volvo Eicher,Dwarka Circle,03:00,Vijay Nagar - IntrCity Lounge,12:05,MP13ZM5419
+521,Indore-Mumbai | 10:15PM,2+1(34)AC: Sleeper with Washroom: Volvo Eicher,Dhule Bypass,03:45,Borivali East,12:00,MP13ZM5440
+539,Chennai-Vijayawada | 11:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Tada,01:00,Benz Circle,08:00,TN02BY0483
+540,Vijayawada-Chennai | 10:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Chilakaluripet,00:45,Siruseri,08:30,TN02BY0461
+541,Hyderabad-Chennai | 07:15PM,2+1(34)AC: Sleeper with Washroom: Luxury,Gachibowli (Van Pickup),16:30,Siruseri,08:20,TN02BY0439
+542,Chennai-Hyderabad | 07:25PM,2+1(34)AC: Sleeper with Washroom: Luxury,Siruseri,17:00,Nellore Bypass,23:45,TN02BY0421
+543,Chennai-Bangalore | 10:20PM,2+1(44)AC: Seater: Sleeper: Luxury,Vellore - Boarding Zone,01:20,Majestic - Boarding Zone,07:20,NL01B2677
+544,Bangalore-Chennai | 10:05PM,2+1(44)AC: Seater: Sleeper: Luxury,TCR Circle,00:15,Velachery,05:55,NL01B2688 
+545,Mumbai-Indore | 09:30PM,2+1(34)AC: Sleeper with Washroom: Volvo Eicher,Dwarka Circle,01:45,Vijay Nagar - IntrCity Lounge,10:15,MP13ZM5467
+546,Indore-Mumbai | 08:15PM,2+1(34)AC: Sleeper with Washroom: Volvo Eicher,Dhule Bypass,01:45,Borivali East,10:00,MP13ZM5436
+567,Chennai-Bangalore | 09:45PM,2+1(36)AC: Sleeper with Washroom: Luxury,Vellore - Boarding Zone,00:45,Majestic - Boarding Zone,05:30,AR01S6645
+568,Bangalore-Chennai | 09:15PM,2+1(36)AC: Sleeper with Washroom: Luxury,Satellite Bus Stop (Mysore Road),20:00,Velachery,05:15,AR01S6642
+569,Mumbai-Goa | 04:15PM,2+1(36)AC: Sleeper: Luxury,Satara,00:55,Madgaon,10:00,NL01B2735
+570,Goa-Mumbai | 06:30PM,2+1(36)AC: Sleeper: Luxury,Kolhapur,01:00,Borivali East,09:00,NL01B2728
+571,Chennai-Madurai | 09:30PM,2+1(34)AC: Sleeper with Washroom: Luxury,Villupuram Bypass,00:45,Mattuthavani - IntrCity Lounge,06:00,TN30CE3919
+572,Madurai-Chennai | 09:20PM,2+1(34)AC: Sleeper with Washroom: Luxury,Mattuthavani - IntrCity Lounge,21:20,Koyembedu,05:45,TN30CE3919
+575,Visakhapatnam-Guntur | 10:00PM,2+1(32)AC: Sleeper: Luxury,Nakkapalli,00:20,Guntur RTC Bus Stand,06:35,AP07TH7778
+576,Guntur-Visakhapatnam | 09:45PM,2+1(32)AC: Sleeper: Luxury,RTC Bus Stop,00:20,MVP Circle,06:40,AP07TH7789
+577,Guntur-Hyderabad | 10:35PM,2+1(34)AC: Sleeper: Luxury,Pattabhipuram - IntrCity Lounge,22:35,Gachibowli,06:50,AP39TF1399Y
+578,Hyderabad-Guntur | 11:10PM,2+1(34)AC: Sleeper: Luxury,Kondapur,22:10,Pattabhipuram - IntrCity Lounge,07:10,AP39TF2999Y
+579,Chennai-Coimbatore | 11:00PM,2+1(32)AC: Sleeper: Luxury,Tindivanam  Bypass,00:15,Gandhipuram,07:45,TN37EX6006
+580,Coimbatore-Chennai | 09:00PM,2+1(32)AC: Sleeper: Luxury,Kondalampatti Circle,00:29,Velachery,07:15,TN37EX6006
+595,Hyderabad-Goa | 06:40PM,2+1(34)AC: Sleeper with Washroom: Luxury,Kolhapur,04:50,Panjim,11:10,TS12UE3607
+596,Goa-Hyderabad | 03:40PM,2+1(34)AC: Sleeper with Washroom: Luxury,Panjim,15:00,Kolhapur,21:45,TS12UE3608
+597,Bangalore-Goa | 09:30PM,2+1(34)AC: Sleeper with Washroom: Luxury,Madiwala,19:30,Mapusa,11:50,NL01B3257
+600,Goa-Bangalore | 05:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,Mapusa,16:20,Madiwala,08:00,NL01B3259
+604,Bangalore-Vijayawada | 07:30PM,2+1(42)AC: Sleeper: Scania Multi Axle,Chandapura,17:00,Tirupati Bypass,23:45,NL01B3031
+605,Vijayawada-Bangalore | 08:45PM,2+1(42)AC: Sleeper: Scania Multi Axle,Tirupati Bypass,04:00,Chandapura,10:00,NL01B3036
+636,Bangalore-Hyderabad | 11:10PM,2+1(34)AC: Sleeper with Washroom: Luxury,Chikkaballapur Bypass,00:25,Gachi_bowli_(O) (Van Dropoff),10:00,NL01B1802
+637,Hyderabad-Bangalore | 11:40PM,2+1(34)AC: Sleeper with Washroom: Luxury,Bellary Chowrasta,03:05,Madiwala,10:35,NL01B1801
+644,Gurgaon-Amritsar | 09:30PM,2+1(42)AC: Seater: Sleeper with Washroom: Luxury,IFFCO Chowk - Boarding Zone,21:30,Bus Stand - City Center Parking,09:05,AR01S0653
+645,Amritsar-Gurgaon | 08:45PM,2+1(42)AC: Seater: Sleeper with Washroom: Luxury,Sherpur Chowk - Boarding Zone,00:00,IFFCO Chowk,07:15,AR01S0656
+659,Bangalore-Hyderabad | 08:15PM,2+1(36)AC: Sleeper: Capella Luxury,Anantapur,00:10,Mehdipatnam,07:15,NL01B2551
+660,Hyderabad-Bangalore | 07:35PM,2+1(36)AC: Sleeper: Capella Luxury,Gachi_bowli_(O) (Van Pickup),16:45,Majestic - Boarding Zone,08:20,NL01B2552
+663,Bangalore-Chennai | 10:25PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Hebbal,20:40,Siruseri,07:00,NL01B3065
+664,Chennai-Bangalore | 10:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Vellore - Boarding Zone,01:30,Mekhri Circle,07:00,NL01B3066
+668,Guntur-Hyderabad | 10:20PM,2+1(46)AC: Seater: Sleeper: Luxury,Pattabhipuram - IntrCity Lounge,22:00,Chandanagar,06:25,NL01B2183
+669,Hyderabad-Guntur | 11:35PM,2+1(46)AC: Seater: Sleeper: Luxury,Chandanagar,22:55,Pattabhipuram - IntrCity Lounge,07:35,NL01B2182
+670,Madurai-Chennai | 10:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Trichy Bypass,00:40,Koyembedu (Van Dropoff),06:35,TN02CA0986
+671,Chennai-Madurai | 10:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Chengalpattu  - Boarding Zone,00:05,Mattuthavani - IntrCity Lounge,06:45,TN02CA0904
+672,Guntur-Hyderabad | 10:45PM,2+1(40)AC: Seater: Sleeper: Luxury,Pattabhipuram - IntrCity Lounge,22:45,Gachibowli,06:55,NL07B0986
+673,Hyderabad-Guntur | 11:30PM,2+1(40)AC: Seater: Sleeper: Luxury,Kondapur,22:25,Pattabhipuram - IntrCity Lounge,07:00,NL07B0986
+676,Vijayawada-Bangalore | 07:30PM,2+1(36)AC: Sleeper: Luxury,Kavali,00:20,Chandapura,09:15,AP39UA0777
+677,Bangalore-Vijayawada | 09:30PM,2+1(36)AC: Sleeper: Luxury,Chandapura,19:00,Palamaner Bypass,23:55,AP39UB0777
+686,Hyderabad-Bangalore | 09:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Anantapur,04:15,Chandapura,10:05,TS12UE0383
+687,Bangalore-Hyderabad | 07:35PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Chandapura,16:35,Anantapur,23:35,TS12UE0384
+690,Mumbai-Goa | 07:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,Talegaon Toll Naka,00:05,Madgaon,11:45,MP13ZG0276
+691,Goa-Mumbai | 08:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,Madgaon,18:30,Kankavli,22:40,MP13ZG0210
+696,Bangalore-Hyderabad | 08:35PM,2+1(36)AC: Sleeper: Luxury,Anantapur,00:20,Mehdipatnam,07:30,AP39TG0777Z
+697,Hyderabad-Bangalore | 09:50PM,2+1(36)AC: Sleeper: Luxury,Bellary Chowrasta,02:15,Chandapura,10:30,AP39UD0777Z
+698,Vijayawada-Bangalore | 07:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Kavali,00:10,Chandapura,09:15,PY04A8107
+699,Bangalore-Vijayawada | 08:10PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Chandapura,17:40,Chittoor Bypass,23:25,PY04A8133
+706,Guntur-Visakhapatnam | 10:15PM,2+1(40)AC: Seater: Sleeper: Luxury,(Gannavaram),00:20,MVP Circle,07:10,AP05TG5553
+707,Visakhapatnam-Guntur | 09:00PM,2+1(40)AC: Seater: Sleeper: Luxury,MVP Colony,21:00,Pattabhipuram - IntrCity Lounge,06:10,AP05TG5554
+708,Hyderabad-Tirupati | 09:30PM,2+1(34)AC: Sleeper with Washroom: Luxury,Miyapur - Boarding Zone (Van Pickup),18:25,Tirupati,07:55,AP39VD6284
+709,Tirupati-Hyderabad | 08:45PM,2+1(34)AC: Sleeper with Washroom: Luxury,BMR Harini Parking,20:45,Mehdipatnam,07:50,AP39VD6283
+710,Chennai-Trichy | 10:45PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Melmaruvathur,00:30,Central Bus Stand,05:45,TN02CE7575
+711,Trichy-Chennai | 11:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Perambalur Bypass,00:25,Koyambedu,05:30,TN02CE9797
+714,Hyderabad-Vijayawada | 11:05PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Chandanagar,22:25,Gannavaram,06:30,PY04A7961
+715,Vijayawada-Hyderabad | 11:25PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Gannavaram,22:45,Chandanagar,06:50,PY04A7985
+719,Vijayawada-Chennai | 10:05PM,2+1(48)AC: Seater: Sleeper: Luxury,Chilakaluripet,00:20,Siruseri,08:10,TN02CA0780
+720,Chennai-Vijayawada | 11:00PM,2+1(48)AC: Seater: Sleeper: Luxury,Tada,00:55,Benz Circle,07:35,TN02CA0793
+732,Pune-Goa | 09:15PM,2+1(46)AC: BharatBenz Seater:Sleeper with Washroom: ,Kolhapur,02:10,Madgaon,09:00,AR01W8900
+733,Goa-Pune | 08:30PM,2+1(46)AC: BharatBenz Seater:Sleeper with Washroom: ,Kolhapur,02:35,Nigdi,08:00,AR01W9100
+744,Pune-Goa | 10:30PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Wai Phata,01:00,Madgaon,10:50,AR01W8500
+745,Goa-Pune | 06:00PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Madgaon,16:30,Kolhapur,23:50,AR01W8500
+763,Bangalore-Madurai | 09:15PM,2+1(36)AC: Sleeper: Luxury,Dharmapuri Bypass,00:20,Mattuthavani Bus Stand,06:00,TN59CT2299
+764,Madurai-Bangalore | 09:00PM,2+1(36)AC: Sleeper: Luxury,Karur Bypass,00:15,Mekri Circle,07:00,TN59CT2221
+767,Vijayawada-Hyderabad | 11:45PM,2+1(46)AC: BharatBenz Seater:Sleeper: ,Kankipadu Bus Stand,23:00,Gachibowli,06:30,PY04A7890
+768,Hyderabad-Vijayawada | 10:55PM,2+1(46)AC: BharatBenz Seater:Sleeper: ,Kondapur,22:45,Kankipadu,06:10,PY04A7918
+769,Pune-Goa | 10:00PM,2+1(36)AC: Sleeper with Washroom: Luxury,Wai Phata,00:45,Madgaon,10:35,MP13ZN8073
+770,Goa-Pune | 07:00PM,2+1(36)AC: Sleeper with Washroom: Luxury,Kolhapur,01:15,Nigdi,06:45,MP13ZN8735
+771,Hyderabad-Pune | 09:55PM,2+1(46)AC: Volvo Eicher Seater:Sleeper with Washroom: ,Solapur Bypass,03:30,Nigdi,09:50,PY01DB6492
+772,Pune-Hyderabad | 10:00PM,2+1(46)AC: Volvo Eicher Seater:Sleeper with Washroom: ,Market Yerd Chowk,03:15,Lakdikapool - IntrCity Lounge (Van Dropoff),11:45,PY01DB6478
+775,Chennai-Hyderabad | 06:15PM,2+1(36)AC: Sleeper: Luxury,Koyambedu,18:00,Kavali,23:25,TN30CE0086
+776,Hyderabad-Chennai | 08:30PM,2+1(36)AC: Sleeper: Luxury,Allwyn X Road (Van Pickup),17:25,Koyambedu,08:45,TN30CE0075
+781,Chennai-Hyderabad | 08:00PM,2+1(36)AC: Sleeper: Luxury,Nellore Bypass,00:15,Allwyn X Road (Van Dropoff),09:15,TN30CE1814
+782,Hyderabad-Chennai | 10:15PM,2+1(36)AC: Sleeper: Luxury,Allwyn X Road (Van Pickup),19:25,Koyambedu,10:20,TN30CE1828
+783,Bangalore-Chennai | 11:00PM,2+1(46)AC: Seater: Sleeper: Luxury,Hosur - Boarding Zone,00:15,Siruseri,07:20,AR01S6644
+784,Chennai-Bangalore | 11:25PM,2+1(46)AC: Seater: Sleeper: Luxury,Vellore - Boarding Zone,02:35,Majestic - Boarding Zone,07:40,AR01S6643
+785,Bangalore-Vijayawada | 07:50PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Majestic - Boarding Zone,17:00,Chittoor Bypass,23:20,NL01B3063
+786,Vijayawada-Bangalore | 08:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Kavali,01:00,Majestic - Boarding Zone,10:35,NL01B3061
+789,Chennai-Madurai | 09:00PM,2+1(48)AC: Seater: Sleeper: Luxury,Villupuram Bypass,00:30,Tirumangalam Bus Stand,06:40,TN02CB9799
+790,Madurai-Chennai | 10:45PM,2+1(48)AC: Seater: Sleeper: Luxury,Trichy Bypass,01:00,Koyembedu,07:00,TN02CB9979
+795,Bangalore-Hyderabad | 10:05PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Bagepalli,00:25,Gachibowli (Van Dropoff),10:45,TS12UD9637
+796,Hyderabad-Bangalore | 11:35PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Gachi_bowli_(O) (Van Pickup),20:25,Madiwala,10:40,TS12UD9638
+797,Hyderabad-Visakhapatnam | 08:45PM,2+1(46)AC: Volvo Eicher Seater:Sleeper with Washroom: ,Gachibowli (Van Pickup),17:20,MVP Circle,10:15,NL01B2766
+798,Visakhapatnam-Hyderabad | 04:50PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Benz Circle,01:05,Allwyn X Road (Van Dropoff),07:25,TN02BY2234
+803,Bangalore-Chennai | 07:10PM,2+1(48)AC: Seater: Sleeper: Luxury,Majestic - Boarding Zone,10:20,Velachery,20:20,PY01DB6414
+804,Chennai-Bangalore | 08:10PM,2+1(48)AC: Seater: Sleeper: Luxury,Velachery,11:00,Majestic - Boarding Zone,20:00,PY01DB6422
+809,Bangalore-Hyderabad | 09:55PM,2+1(34)AC: Sleeper with Washroom: Luxury,Bagepalli,00:05,Gachi_bowli_(O) (Van Dropoff),09:55,TS12UE4000
+810,Hyderabad-Bangalore | 07:10PM,2+1(34)AC: Sleeper with Washroom: Luxury,Anantapur,01:30,Whitefield,07:00,TS12UE3998
+815,Amritsar-Gurgaon | 07:45PM,2+1(40)AC: Seater: Sleeper with Washroom: ,Bus Stand - City Center Parking,19:30,Sirhind Bus Stop Flyover,23:55,AR01S0654
+816,Gurgaon-Amritsar | 10:00PM,2+1(40)AC: Seater: Sleeper with Washroom: ,Pahalwan Dhaba,00:25,Bus Stand - City Center Parking,08:35,AR01S0655
+817,Hyderabad-Bangalore | 11:00PM,2+1(36)AC: Sleeper: Luxury,Bellary Chowrasta,02:40,Chandapura,10:40,AP39UC0777
+818,Bangalore-Hyderabad | 11:15PM,2+1(36)AC: Sleeper: Luxury,Chikkaballapur Bypass,00:25,Gachi_bowli_(O) (Van Dropoff),11:00,AP39TV0777
+821,Bangalore-Chennai | 11:10PM,2+1(48)AC: Seater: Sleeper: Luxury,Hosur - Boarding Zone,00:35,Velachery,07:20,PY01DB6414
+822,Chennai-Bangalore | 10:35PM,2+1(48)AC: Seater: Sleeper: Luxury,Vellore - Boarding Zone,02:45,Majestic - Boarding Zone,07:05,PY01DB6422
+827,Hyderabad-Visakhapatnam | 08:00PM,2+1(36)AC: Sleeper: Luxury,Gachibowli (Van Pickup),17:00,MVP Circle,09:30,AP39TJ0777
+828,Visakhapatnam-Hyderabad | 07:00PM,2+1(36)AC: Sleeper: Luxury,Jaggampeta,00:15,Gachibowli (Van Dropoff),10:15,AP39TV0777
+831,Bangalore-Hyderabad | 08:00PM,2+1(46)AC: Volvo Eicher Seater:Sleeper with Washroom: ,Anantapur,00:10,Lakdikapool,07:10,PY01DB6492
+832,Hyderabad-Bangalore | 08:30PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Bellary Chowrasta,00:55,Chandapura,09:00,PY01DB1782
+881,Bangalore-Madurai | 11:20AM,2+1(36)AC: Sleeper: BharatBenz Full Air Suspension,Majestic - Boarding Zone,10:30,Mattuthavani Bus Stand,20:35,TN59DB6777
+882,Madurai-Bangalore | 10:15AM,2+1(36)AC: Sleeper: BharatBenz Full Air Suspension,Mattuthavani - Boarding Zone,10:15,Majestic - Boarding Zone,19:00,TN59DB6888
+883,Bangalore-Nagercoil | 08:05PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Salem,00:35,Vadasery - Boarding Zone,08:45,NL01B3255
+884,Nagercoil-Bangalore | 06:00PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Karur Bypass,00:45,Majestic - Boarding Zone,07:55,NL01B3255
+891,Bangalore-Nagercoil | 09:15PM,2+1(34)AC: Sleeper with Washroom: Luxury,Dharmapuri Bypass,00:30,Vadasery - Boarding Zone,09:45,TN02CA4093
+892,Nagercoil-Bangalore | 07:00PM,2+1(34)AC: Sleeper with Washroom: Luxury,Dindigul,00:10,Hebbal,07:50,TN02CA4093
+895,Chennai-Nagercoil | 09:30PM,2+1(34)AC: Sleeper with Washroom: ,Villupuram Bypass,00:35,Vadasery - Boarding Zone,10:00,TN48BT6996
+896,Nagercoil-Chennai | 05:45PM,2+1(34)AC: Sleeper with Washroom: Luxury,Vadasery - Boarding Zone,17:45,Karuppayurani Junction,22:50,TN48BT6633
+899,Amritsar-Gurgaon | 08:15PM,2+1(42)AC: Volvo Eicher Seater:Sleeper with Washroom: ,Bus Stand - City Center Parking,20:00,Sirhind Bus Stop Flyover,23:55,AR11E0707
+900,Gurgaon-Amritsar | 10:30PM,2+1(42)AC: Volvo Eicher Seater:Sleeper with Washroom: ,Pahalwan Dhaba,01:00,Bus Stand - City Center Parking,08:35,AR11D5757
+912,Hyderabad-Guntur | 11:50PM,2+1(34)AC: Sleeper with Washroom: Luxury,Chandanagar - Boarding Zone,22:40,Pattabhipuram - IntrCity Lounge,07:45,NL01B7778
+913,Guntur-Hyderabad | 10:55PM,2+1(34)AC: Sleeper with Washroom: Luxury,Pattabhipuram - IntrCity Lounge,22:55,Gachibowli,06:50,NL01B6788
+923,Bangalore-Pune | 07:30PM,2+1(42)AC: Sleeper: Volvo Multi Axle I-Shift B11R,Belgaum Bypass,04:10,Wakad,11:45,NL01B2123
+924,Pune-Bangalore | 08:30PM,2+1(42)AC: Sleeper: Volvo Multi Axle I-Shift B11R,Karad Bypass,00:20,Kalasipalyam,12:50,NL01B2124
+934,Hyderabad-Vijayawada | 10:05PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Kondapur,21:55,Auto Nagar,06:10,NL02B6444
+939,Guntur-Visakhapatnam | 09:15PM,2+1(36)AC: Sleeper: Luxury,Eluru Bypass,00:20,MVP Circle,06:10,AP39UA0777
+940,Visakhapatnam-Guntur | 10:30PM,2+1(36)AC: Sleeper: Luxury,Anakapalle - Boarding Zone,00:01,Pattabhipuram - IntrCity Lounge,07:20,AP39UB0777
+943,Hyderabad-Mumbai | 08:20PM,2+1(38)AC: Sleeper: Luxury,Hadapsar,05:55,Borivali East,11:30,AR01U0333
+944,Mumbai-Hyderabad | 08:35PM,2+1(38)AC: Sleeper: Luxury,Solapur Bypass,02:45,Lakdikapool,09:30,AR01S0333
+956,Hyderabad-Vijayawada | 11:25PM,2+1(46)AC: Seater: Sleeper with Washroom: Hybrid,Kondapur,23:15,Tenali,07:15,TS12UD9640
+957,Vijayawada-Hyderabad | 10:00PM,2+1(46)AC: Volvo Eicher Seater:Sleeper with Washroom: ,Tenali,22:00,Gachibowli,06:15,PY01DB1450
+963,Pune-Nagpur | 07:45PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Baba Petrol Pump,01:35,Ashirwad Theater,09:10,AR01W7400
+964,Nagpur-Pune | 06:00PM,2+1(34)AC: BharatBenz Sleeper with Washroom: ,Ashirwad Theater,18:00,Panchavati Square,21:00,AR01W7300
+971,Pune-Nagpur | 10:00PM,2+1(46)AC: BharatBenz Seater:Sleeper with Washroom: ,Ahmednagar Bypass,01:15,Ashirwad Theater,11:30,AR01W8700
+972,Nagpur-Pune | 08:15PM,2+1(46)AC: BharatBenz Seater:Sleeper with Washroom: ,Baba Petrol Pump,04:30,Nigdi,11:45,AR01W8600
+978,Gurgaon-Lucknow | 10:00PM,2+1(36)AC: Sleeper with Washroom: Volvo Eicher,Greater Noida,00:45,Nahariya Chauraha - IntrCity Lounge,08:00,AR11C5757Z
+979,Lucknow-Gurgaon | 09:10PM,2+1(36)AC: Sleeper with Washroom: Volvo Eicher,Agra Toll Plaza,02:10,IFFCO Chowk,06:25,AR11D0707Z
+980,Hyderabad-Tirupati | 10:30PM,2+1(34)AC: Sleeper with Washroom: Luxury,Ameerpet (Van Pickup),20:00,Tirupati,08:45,TG13T1983
+981,Tirupati-Hyderabad | 09:15PM,2+1(34)AC: Sleeper with Washroom: Luxury,BMR Harini Parking,21:15,Mehdipatnam,08:10,TG13T1984
+1019,Vijayawada-Tirupati | 10:25PM,2+1(34)AC: Sleeper with Washroom: Luxury,Chilakaluripet,00:30,RTC BusStand - Boarding Zone,06:30,AP39UJ0777
+1020,Tirupati-Vijayawada | 10:25PM,2+1(34)AC: Sleeper with Washroom: Luxury,BMR Harini Parking,22:20,NTR Circle,06:20,AP39TF0777
+1027,Hyderabad-Rajahmundry | 11:15PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Gachibowli (Van Pickup),19:50,Diwancheruvu,07:35,PY01DB7238
+1028,Rajahmundry-Hyderabad | 08:45PM,2+1(46)AC: Seater: Sleeper with Washroom: Luxury,Eluru Bypass,00:01,Gachibowli,07:40,PY01DB7292
+1031,Bangalore-Madurai | 10:45PM,2+1(36)AC: Sleeper: BharatBenz Full Air Suspension,Krishnagiri,01:15,Mattuthavani Bus Stand,07:35,TN59DB6888
+1032,Madurai-Bangalore | 10:30PM,2+1(36)AC: Sleeper: BharatBenz Full Air Suspension,Dindigal Bypass,00:15,Majestic - Boarding Zone,07:10,TN59DB6777
+1046,Bangalore-Hyderabad | 07:50PM,2+1(34)AC: Sleeper with Washroom: Luxury,Chandapura,16:50,Anantapur,23:55,TG13T1986
+1047,Hyderabad-Bangalore | 09:05PM,2+1(34)AC: Sleeper with Washroom: Luxury,Bellary Chowrasta,01:30,Chandapura,09:40,TG13T1985
+1065,Bangalore-Nagercoil | 09:55PM,2+1(42)AC: Sleeper: Volvo Multi Axle I-Shift B11R,Krishnagiri,00:20,Vadasery - Boarding Zone,09:25,NL01B2119Z
+1066,Nagercoil-Bangalore | 08:20PM,2+1(42)AC: Sleeper: Volvo Multi Axle I-Shift B11R,Tirumangalam Toll Gate,00:15,Majestic - Boarding Zone,08:45,NL01B2120Z
+1067,Bangalore-Coimbatore | 10:20PM,2+1(34)AC: Sleeper with Washroom: Luxury,Krishnagiri,00:25,Gandhipuram,05:35,KA51AK1037
+1068,Coimbatore-Bangalore | 09:50PM,2+1(34)AC: Sleeper with Washroom: Luxury,Bhavani,00:20,Majestic - Boarding Zone,06:10,KA51AK1038
+1069,Bangalore-Madurai | 10:05PM,2+1(36)AC: Sleeper: Luxury,Krishnagiri,00:40,Mattuthavani Bus Stand,07:15,NL01B2709
+1070,Madurai-Bangalore | 09:50PM,2+1(36)AC: Sleeper: Luxury,Karur Bypass,00:50,Majestic - Boarding Zone,08:00,NL01B2711
